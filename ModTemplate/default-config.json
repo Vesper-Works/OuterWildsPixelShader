@@ -1,3 +1,16 @@
 {
-	"enabled": true
+  "enabled": true,
+  "settings": {
+    "Pixel scale": {
+      "type": "slider",
+      "value": 2,
+      "min": 2,
+      "max": 12
+    },
+    "Blend": {
+      "type": "toggle",
+      "value": false,
+      "title": "Blend"
+    }
+  }
 }
